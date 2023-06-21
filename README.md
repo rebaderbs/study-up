@@ -9,13 +9,12 @@
 
 Process:
 - [x] Choose prompt
-- [ ] Create an empathy map <-------in process!
-- [ ] Create personas <-------in process!
-- [ ] Craft user stories <-------in process!
-- [ ] Create a user journey map <-------in process!
-- [ ] Create a problem statement <-------in process!
-- [ ] Conduct a competitive audit
-- [ ] Come up with ideas for your website
+- [x] Create an empathy map
+- [x] Create personas
+- [x] Craft user stories
+- [x] Create a user journey map
+- [x] Create a problem statement
+- [ ] Come up with ideas for your website <-------in process!
 - [ ] Create a sitemap
 - [ ] Create paper wireframes
 - [ ] Create variations of your paper wireframes
