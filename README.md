@@ -5,7 +5,7 @@
 *(required to choose a random prompt via Sharpen)*
 ### Design an employee scheduling flow for a shop in your hometown.
 #### I chose Rouge Floral Design, an actual business that I worked for last year. 
-#### This portfolio project is specifically for creating a responsive website using Adobe XD
+#### This portfolio project is specifically for creating a responsive website using Adobe XD, however the course no longer offers a Student plan of Adobe XD, so they are suggesting Figma as an alternative
 
 Process:
 - [x] Choose prompt
